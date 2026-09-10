@@ -4,7 +4,7 @@
             <h1>Welcome to the Basic POS System</h1>
 
             <p class="lead">
-                This is the landing page of our CodeIgniter POS application.
+                This is the landing page of my CodeIgniter POS application.
             </p>
         </div>
     </div>
