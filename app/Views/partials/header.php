@@ -33,11 +33,11 @@
                 </a>
 
                 <a class="nav-link" href="<?= base_url('customers') ?>">
-                    Customer Accounts
+                    Customer 
                 </a>
 
                 <a class="nav-link" href="<?= base_url('users') ?>">
-                    User Accounts
+                    User 
                 </a>
             </div>
         </div>
